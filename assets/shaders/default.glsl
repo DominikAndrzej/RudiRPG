@@ -1,7 +1,3 @@
-//a - atribute
-//f - fragment
-//takes information about vertex and put it into shader
-
 #type vertex
 #version 330 core
 layout (location=0) in vec3 aPos;
